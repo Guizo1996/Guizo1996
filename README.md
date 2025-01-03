@@ -3,19 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Profile README</title>
+    
 </head>
 <body>
     <h1 align="center">Hi there 👋</h1>
     <p align="center">
         <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" alt="Fun GIF" width="300">
     </p>
-
     <p align="center">
         Welcome to my little corner of the coding universe! 🌌<br>
         I'm <strong>[Your Name]</strong>, a passionate explorer of the digital world. 🖥️✨
     </p>
-
     <h2>✨ About Me</h2>
     <ul>
         <li>🔭 I’m currently working on: conquering code bugs and creating awesome projects!</li>
@@ -27,7 +25,6 @@
         <li>😄 Pronouns: [Your Pronouns]</li>
         <li>⚡ Fun fact: I once turned off my WiFi just to see what would happen. Spoiler: it was terrifying.</li>
     </ul>
-
     <h2>🚀 My Skills</h2>
     <p>
         <img src="https://img.shields.io/badge/Code-JavaScript-yellow" alt="JavaScript">
@@ -37,17 +34,14 @@
         <img src="https://img.shields.io/badge/Tools-Git-orange" alt="Git">
         <img src="https://img.shields.io/badge/Tools-VS%20Code-brightgreen" alt="VS Code">
     </p>
-
     <h2>🌟 Fun Zone</h2>
     <blockquote>
         "Code is like humor. When you have to explain it, it’s bad." - Cory House
     </blockquote>
-
     <p align="center">
         Thanks for stopping by! Feel free to explore, star ⭐, or fork 🍴 any of my repositories.<br>
         Let’s build something amazing together! 🚀
     </p>
-
     <footer>
         <p align="center">
             <small>Made with ❤️ and a lot of coffee ☕.</small>
