@@ -35,7 +35,7 @@
     </p>
     <h2>🌟 Piadocas do dia</h2>
     <blockquote>
-        "Código é igual mágica. Quando ninguém entende, é genial!" - [Seu Nome]
+        "Código é igual mágica. Quando ninguém entende, é genial!" - Gabe Simons
     </blockquote>
     <p align="center">
         Obrigado por passar por aqui! Explore, dê uma estrela ⭐ ou faça um fork 🍴 nos meus repositórios.<br>
