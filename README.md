@@ -15,13 +15,13 @@
     </p>
     <h2>✨ Sobre mim</h2>
     <ul>
-        <li>🔭 Atualmente estou trabalhando em: derrotar bugs e criar projetos que deixem o mundo mais divertido!</li>
-        <li>🌱 Estou aprendendo: novas linguagens de programação e como fazer a pizza perfeita 🍕.</li>
-        <li>👯 Procuro colaborar em: qualquer coisa que seja divertida, desafiadora ou que envolva cachorros 🐶.</li>
+        <li>🔭 Atualmente estou trabalhando em: criar projetos que deixem o mundo menos chato!</li>
+        <li>🌱 Estou aprendendo: novas linguagens de programação e como tirar a soneca perfeita.</li>
+        <li>👯 Procuro colaborar em: qualquer coisa que seja divertida, desafiadora ou que envolva gatitos.</li>
         <li>🤔 Preciso de ajuda com: entender por que o café acaba tão rápido.</li>
-        <li>💬 Me pergunte sobre: memes, tecnologia ou o segredo para fazer o melhor brigadeiro.</li>
-        <li>📫 Como me encontrar: <a href="https://www.linkedin.com/in/grgmdesign/">meu linkedinho </a> ou por sinal de fumaça 🔥.</li>
-        <li>⚡ Curiosidade: Já tentei "consertar" a internet desligando e ligando o roteador... e funcionou! 🛠️</li>
+        <li>💬 Me pergunte sobre: memes, tecnologia ou o segredo para fazer o melhor bolo de banana.</li>
+        <li>📫 Como me encontrar: <a href="https://www.linkedin.com/in/grgmdesign/">meu linkedinho </a> ou por telepatia.</li>
+        <li>⚡ Curiosidade: Já tentei "consertar" a internet desligando e ligando o roteador... e não funcionou! 🛠️</li>
     </ul>
     <h2>🚀 Minhas Habilidades</h2>
     <p>
